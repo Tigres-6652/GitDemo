@@ -12,4 +12,7 @@ It's just a server that hosts the git repo online so all developers can work on 
 
 ## Completed Setup
 1. Magdiel
-2. Daniel
+2. Diego Cantú (desde github web)
+3. 
+4. Daniel (desde github web)
+
